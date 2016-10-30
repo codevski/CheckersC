@@ -1,12 +1,3 @@
-/***********************************************************************
- * COSC1076 - Advanced Programming Techniques
- * Semester 2 2014 Assignment #1
- * Full Name        : Saso Petrovski
- * Student Number   : S3435996
- * Course Code      : COSC1076
- * Program Code     : B096
- * Start up code provided by Paul Miller and Virginia King
- **********************************************************************/
 #include "utility.h"
 #include <time.h>
 #include <string.h>
