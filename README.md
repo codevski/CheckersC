@@ -26,7 +26,7 @@ Extract the zip file to any desired folder.
 ## Credits
 
 Startup Code: Paul Miller
-Amended: Saso Petrovski
+Amended: Sash Petrovski
 
 ## License
 
